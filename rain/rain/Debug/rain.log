@@ -1,0 +1,8 @@
+﻿D:\engle\rain\rain\rain\ObjPixelShader.hlsl(111,27-52): warning X3206: implicit truncation of vector type
+D:\engle\rain\rain\rain\ObjPixelShader.hlsl(113,9-46): warning X3206: implicit truncation of vector type
+D:\engle\rain\rain\rain\ObjPixelShader.hlsl(122,3-39): warning X3206: implicit truncation of vector type
+D:\engle\rain\rain\rain\ObjPixelShader.hlsl(145,9-119): warning X3206: implicit truncation of vector type
+D:\engle\rain\rain\rain\ObjPixelShader.hlsl(147,8-31): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see D:\engle\rain\rain\Debug\ObjPixelShader.cso
+  rain.vcxproj -> D:\engle\rain\rain\Debug\rain.exe

@@ -1,0 +1,26 @@
+﻿  compilation object save succeeded; see D:\engle\rain\rain\Release\RainGeometryShader.cso
+  compilation object save succeeded; see D:\engle\rain\rain\Release\RainPixelShader.cso
+  compilation object save succeeded; see D:\engle\rain\rain\Release\RainVertexShader.cso
+  applicationclass.cpp
+d:\engle\rain\rain\rain\applicationclass.cpp(41): warning C4316: 'D3DClass': object allocated on the heap may not be aligned 16
+  cameraclass.cpp
+  d3dclass.cpp
+  fpsclass.cpp
+  inputclass.cpp
+  main.cpp
+d:\engle\rain\rain\rain\main.cpp(772): warning C4018: '>=': signed/unsigned mismatch
+  positionclass.cpp
+  rain.cpp
+  shadermanagerclass.cpp
+  systemclass.cpp
+d:\engle\rain\rain\rain\systemclass.cpp(111): warning C4101: 'dmScreenSettings': unreferenced local variable
+  textureclass.cpp
+  timerclass.cpp
+  zoneclass.cpp
+d:\engle\rain\rain\rain\zoneclass.cpp(25): warning C4316: 'CameraClass': object allocated on the heap may not be aligned 16
+d:\engle\rain\rain\rain\zoneclass.cpp(23): warning C4101: 'result': unreferenced local variable
+d:\engle\rain\rain\rain\zoneclass.cpp(160): warning C4101: 'v': unreferenced local variable
+  Generating code
+  All 301 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  rain.vcxproj -> D:\engle\rain\rain\Release\rain.exe
