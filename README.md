@@ -12,7 +12,7 @@ For the general idea of the SDK, I suggest reading the RainSDKWhitePaper written
 
 This part is one of the most confusing part for me because I could not find any detailed explanation from Microsoft docs. As far as I know, vertex stream out has been used in the rain SDK and in skinning rendering. The main idea is passing the vertex shader bytecode into the CreateGeometryShaderWithStreamOutput. In other words, we are using a null geometry shader to make it fit into the API model. 
 
-![alt text](demo.gif)
+![alt text](VSSO.png)
 
 Look at the above image, the hardware actually skips the GS stage completely. The input data will be forwarded to the stream output and then the data will be streamed into memory. 
 
@@ -36,7 +36,7 @@ Microsoft provides a way: DirextXMesh. The only problem is that Meshconvert.exe 
 
 Demo with background:
 
-![alt text](demo.gif)
+![alt text](demo2.gif)
 
 I did not implement collision detection and rain splashes on the road. The reason is that my mesh object does not have a specular map and the outcome is wired if I use a Photoshop generated specular map. 
 
