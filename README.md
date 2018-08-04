@@ -2,7 +2,7 @@
 
 Demo without background:
 
-
+![alt text](demo3.gif)
 
 I have been wondering about rain simulation for a long time, but I could not find any online tutorial with detailed explanation and codes. Therefore, I study the Nvidia Rain SDK and want to share some of my thoughts with you guys.
 
