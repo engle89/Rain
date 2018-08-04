@@ -20,7 +20,7 @@ Look at the above image, the hardware actually skips the GS stage completely. Th
 
 Texture Array is easy to use as we have 370 different textures and it is easy to bind each of them in a slot.
 
-Alos, DDS format is an image format built for GPUs and they are used for 3D graphics.
+Also, DDS format is an image format built for GPUs and they are used for 3D graphics.
 
 3.The DXUT library has been deprecated.
 
